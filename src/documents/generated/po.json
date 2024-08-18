@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "url": "https://example.com/login",
+      "name": "login_page",
+      "elements": [
+        {
+          "name": "usernameInput",
+          "type": "input",
+          "cssSelector": "#username"
+        }
+      ]
+    }
+  ]
+}
