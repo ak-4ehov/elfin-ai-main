@@ -2,4 +2,7 @@ node_modules
 # environment
 .env*
 
+# vscode settings
+.vscode
+
 **/.DS_Store
