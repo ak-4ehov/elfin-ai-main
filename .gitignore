@@ -1,7 +1,7 @@
 node_modules
 # environment
 .env*
-
+package-lock.json
 # vscode settings
 .vscode
 
